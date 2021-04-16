@@ -6,6 +6,10 @@ This is a Extras repo for post-install scripts
 
 # References
 
+https://www.winehq.org/
+
+https://www.darlinghq.org/
+
 https://www.github.com/phoenix277yt
 
 https://www.github.com/alxb421

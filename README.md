@@ -4,6 +4,10 @@
 
 This is a Extras repo for post-install scripts
 
+# PearOS-arch Project
+
+https://github.com/phoenix277yt/PearOS-arch
+
 # References
 
 https://www.winehq.org/

@@ -10,13 +10,13 @@ https://github.com/phoenix277yt/PearOS-arch
 
 # References
 
-https://www.winehq.org/
-
-https://www.darlinghq.org/
-
 https://www.github.com/phoenix277yt
 
 https://www.github.com/alxb421
+
+https://www.winehq.org/
+
+https://www.darlinghq.org/
 
 https://www.archlinux.org
 
